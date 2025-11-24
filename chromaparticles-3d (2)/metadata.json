@@ -1,0 +1,5 @@
+{
+  "name": "ChromaParticles 3D",
+  "description": "An interactive 3D particle visualization tool where particles composed of text characters morph into various geometric shapes. Features customizable colors, density, and character sets.",
+  "requestFramePermissions": []
+}
